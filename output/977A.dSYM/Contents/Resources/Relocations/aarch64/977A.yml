@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tejasrk/cf/output/977A'
+relocations:     []
+...
